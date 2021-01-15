@@ -1,0 +1,1 @@
+# exemplo-go-mod
